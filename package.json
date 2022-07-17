@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.3",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.3",
     "mongoose": "^6.4.4",
     "pug": "^3.0.2"
   },
@@ -16,7 +20,11 @@
     "type": "git",
     "url": "git+https://github.com/mateuszkdev/twojml-api.git"
   },
-  "keywords": ["api", "urlshorter", "imguplader"],
+  "keywords": [
+    "api",
+    "urlshorter",
+    "imguplader"
+  ],
   "author": "Mateusz#4711",
   "license": "ISC",
   "bugs": {
@@ -24,6 +32,8 @@
   },
   "homepage": "https://github.com/mateuszkdev/twojml-api#readme",
   "devDependencies": {
-    "@types/express": "^4.17.13"
+    "@types/express": "^4.17.13",
+    "@types/express-fileupload": "^1.2.2",
+    "@types/express-session": "^1.17.5"
   }
 }

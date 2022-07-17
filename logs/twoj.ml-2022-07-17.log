@@ -1,0 +1,45 @@
+ { INFO } [17.07.2022 15:46:37] → Loading values to this..
+ { READY } [17.07.2022 15:46:37] → Success!
+ { INFO } [17.07.2022 15:46:37] → Loading RoutesHandler..
+ { INFO } [17.07.2022 15:47:11] → Loading values to this..
+ { READY } [17.07.2022 15:47:11] → Success!
+ { INFO } [17.07.2022 15:47:11] → Loading RoutesHandler..
+ { INFO } [17.07.2022 15:50:13] → Loading values to this..
+ { READY } [17.07.2022 15:50:13] → Success!
+ { INFO } [17.07.2022 15:50:13] → Loading RoutesHandler..
+ { INFO } [17.07.2022 15:50:13] → Successfully loaded status.v1.route.js on api/v1/status [GET]
+ { READY } [17.07.2022 15:50:13] → RoutesHandler loaded successfully!
+ { INFO } [17.07.2022 15:50:13] → Prepare to setup Application Sets and Uses
+ { READY } [17.07.2022 15:50:13] → Success!
+ { INFO } [17.07.2022 15:50:13] → Starting Database..
+ { INFO } [17.07.2022 15:50:13] → MongoDB connected successfully!
+ { READY } [17.07.2022 15:50:13] → Database connected successfully!
+ { INFO } [17.07.2022 15:50:13] → Loaded http 404 getter.
+ { READY } [17.07.2022 15:50:13] → Application ready to start.
+ { READY } [17.07.2022 15:50:13] → Application started! run callback returned.
+ { INFO } [17.07.2022 15:50:27] → Loading values to this..
+ { READY } [17.07.2022 15:50:27] → Success!
+ { INFO } [17.07.2022 15:50:27] → Loading RoutesHandler..
+ { INFO } [17.07.2022 15:50:27] → Successfully loaded status.v1.route.js on api/v1/status [GET]
+ { READY } [17.07.2022 15:50:27] → RoutesHandler loaded successfully!
+ { INFO } [17.07.2022 15:50:27] → Prepare to setup Application Sets and Uses
+ { READY } [17.07.2022 15:50:27] → Success!
+ { INFO } [17.07.2022 15:50:27] → Starting Database..
+ { INFO } [17.07.2022 15:50:27] → MongoDB connected successfully!
+ { READY } [17.07.2022 15:50:27] → Database connected successfully!
+ { INFO } [17.07.2022 15:50:27] → Loaded http 404 getter.
+ { READY } [17.07.2022 15:50:27] → Application ready to start.
+ { READY } [17.07.2022 15:50:27] → Application started! run callback returned.
+ { INFO } [17.07.2022 15:53:08] → Loading values to this..
+ { READY } [17.07.2022 15:53:08] → Success!
+ { INFO } [17.07.2022 15:53:08] → Loading RoutesHandler..
+ { INFO } [17.07.2022 15:53:08] → Successfully loaded status.v1.route.js on api/v1/status [GET]
+ { READY } [17.07.2022 15:53:08] → RoutesHandler loaded successfully!
+ { INFO } [17.07.2022 15:53:08] → Prepare to setup Application Sets and Uses
+ { READY } [17.07.2022 15:53:08] → Success!
+ { INFO } [17.07.2022 15:53:08] → Starting Database..
+ { INFO } [17.07.2022 15:53:08] → MongoDB connected successfully!
+ { READY } [17.07.2022 15:53:08] → Database connected successfully!
+ { INFO } [17.07.2022 15:53:08] → Loaded http 404 getter.
+ { READY } [17.07.2022 15:53:08] → Application ready to start.
+ { READY } [17.07.2022 15:53:08] → Application started! run callback returned.
